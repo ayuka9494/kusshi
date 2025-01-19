@@ -1,6 +1,6 @@
 function imgchange1() {
-    document.getElementById('totoro').src = './image/mako1.jpeg';
+    document.getElementById('totoro').src = './image/totoro1.jpg';
 }
 function imgchange2() {
-    document.getElementById('totoro').src = './image/mako.jpeg';
+    document.getElementById('totoro').src = './image/totoro2.jpg';
 }
